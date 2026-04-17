@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c1e869c0001b8d24daa3e25f12186d07
+guid: d5254e392df1e3c4180f9bfae22d8a62
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3893367842366815761
-    second: fenrir_ataque_3_0
+      213: 1959989033543492411
+    second: fenrir_ataque_2 real_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fenrir_ataque_3_0
+      name: fenrir_ataque_2 real_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 10
-        width: 63
-        height: 42
+        x: 0
+        y: 11
+        width: 64
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe10cc7439af7f9c0800000000000000
-      internalID: -3893367842366815761
+      spriteID: b33650c34a7433b10800000000000000
+      internalID: 1959989033543492411
       vertices: []
       indices: 
       edges: []
@@ -138,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fenrir_ataque_3_0: -3893367842366815761
+      fenrir_ataque_2 real_0: 1959989033543492411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
